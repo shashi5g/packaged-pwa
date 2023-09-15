@@ -4,7 +4,9 @@
   "license": "MIT",
   "scripts": {},
   "private": true,
-  "dependencies": {},
+  "dependencies": {
+    "module-alias": "^2.2.3"
+  },
   "devDependencies": {
     "@nx/js": "16.8.1",
     "nx": "16.8.1",
